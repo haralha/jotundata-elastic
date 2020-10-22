@@ -1,4 +1,6 @@
-/* *Commands for Elastic /
+/* Commands for Elasticsearch for vs Code 
+https://marketplace.visualstudio.com/items?itemName=ria.elastic
+*/
 
 DELETE /jotundata
 
